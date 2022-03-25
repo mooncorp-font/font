@@ -1,0 +1,130 @@
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/alegreya@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/barlowSemiCondensed@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/bebasNeue@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/cinzel@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/cormorantGaramond@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/encodeSans@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/hangeulNuri@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/hind@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/iropkeBatang@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/jejuGothic@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/jejuMyeongjo@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/lexendPeta@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/nanumBarunGothic@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/nanumSquareRound@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/notoSans@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/notoSerif@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/oswald@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/playfairDisplay@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/pretendard@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/quicksand@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/raleway@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/roboto@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/sCoreDream@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/spaceMono@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/spoqaHanSans@v1.0/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/texGyreCursor@v1.0/index.min.css');
+
+.font-alegreya{
+	font-family: 'Alegreya', 'sans-serif' !important;
+}
+
+.font-barlowSemiCondensed{
+	font-family: 'BarlowSemiCondensed', 'sans-serif' !important;
+}
+
+.font-bebasNeue{
+	font-family: 'BebasNeue', 'sans-serif' !important;
+}
+
+.font-cinzel{
+	font-family: 'Cinzel', 'sans-serif' !important;
+}
+
+.font-cormorantGaramond{
+	font-family: 'CormorantGaramond', 'sans-serif' !important;
+}
+
+.font-encodeSans{
+	font-family: 'EncodeSans', 'sans-serif' !important;
+}
+
+.font-hangeulNuri{
+	font-family: 'HangeulNuri', 'sans-serif' !important;
+}
+
+.font-hind{
+	font-family: 'Hind', 'sans-serif' !important;
+}
+
+.font-iropkeBatang{
+	font-family: 'IropkeBatang', 'sans-serif' !important;
+}
+
+.font-jejuGothic{
+	font-family: 'JejuGothic', 'sans-serif' !important;
+}
+
+.font-jejuMyeongjo{
+	font-family: 'JejuMyeongjo', 'sans-serif' !important;
+}
+
+.font-lexendPeta{
+	font-family: 'LexendPeta', 'sans-serif' !important;
+}
+
+.font-nanumBarunGothic{
+	font-family: 'NanumBarunGothic', 'sans-serif' !important;
+}
+
+.font-nanumSquareRound{
+	font-family: 'NanumSquareRound', 'sans-serif' !important;
+}
+
+.font-notoSans{
+	font-family: 'NotoSans', 'sans-serif' !important;
+}
+
+.font-notoSerif{
+	font-family: 'NotoSerif', 'sans-serif' !important;
+}
+
+.font-oswald{
+	font-family: 'Oswald', 'sans-serif' !important;
+}
+
+.font-playfairDisplay{
+	font-family: 'PlayfairDisplay', 'sans-serif' !important;
+}
+
+.font-pretendard{
+	font-family: 'Pretendard', 'sans-serif' !important;
+}
+
+.font-quicksand{
+	font-family: 'Quicksand', 'sans-serif' !important;
+}
+
+.font-raleway{
+	font-family: 'Raleway', 'sans-serif' !important;
+}
+
+.font-roboto{
+	font-family: 'Roboto', 'sans-serif' !important;
+}
+
+.font-sCoreDream{
+	font-family: 'SCoreDream', 'sans-serif' !important;
+}
+
+.font-spaceMono{
+	font-family: 'SpaceMono', 'sans-serif' !important;
+}
+
+.font-spoqaHanSans{
+	font-family: 'SpoqaHanSans', 'sans-serif' !important;
+}
+
+.font-texGyreCursor{
+	font-family: 'TexGyreCursor', 'sans-serif' !important;
+}
