@@ -3,13 +3,16 @@
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/bebasNeue@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/cinzel@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/cormorantGaramond@latest/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/eBGaramond@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/encodeSans@latest/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/gowunBatang@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/hangeulNuri@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/hind@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/iropkeBatang@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/jejuGothic@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/jejuMyeongjo@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/lexendPeta@latest/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/libreBaskerville@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/nanumBarunGothic@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/nanumSquareRound@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/notoSans@latest/index.min.css');
@@ -24,6 +27,7 @@
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/spaceMono@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/spoqaHanSans@latest/index.min.css');
 @import url('https://cdn.jsdelivr.net/gh/mooncorp-font/texGyreCursor@latest/index.min.css');
+@import url('https://cdn.jsdelivr.net/gh/mooncorp-font/workSans@latest/index.min.css');
 
 .font-Alegreya{
 	font-family: 'Alegreya', 'sans-serif' !important;
@@ -45,8 +49,16 @@
 	font-family: 'CormorantGaramond', 'sans-serif' !important;
 }
 
+.font-EBGaramond{
+	font-family: 'EBGaramond', 'sans-serif' !important;
+}
+
 .font-EncodeSans{
 	font-family: 'EncodeSans', 'sans-serif' !important;
+}
+
+.font-GowunBatang{
+	font-family: 'GowunBatang', 'sans-serif' !important;
 }
 
 .font-HangeulNuri{
@@ -71,6 +83,10 @@
 
 .font-LexendPeta{
 	font-family: 'LexendPeta', 'sans-serif' !important;
+}
+
+.font-LibreBaskerville{
+	font-family: 'LibreBaskerville', 'sans-serif' !important;
 }
 
 .font-NanumBarunGothic{
@@ -127,4 +143,8 @@
 
 .font-TexGyreCursor{
 	font-family: 'TexGyreCursor', 'sans-serif' !important;
+}
+
+.font-WorkSans{
+	font-family: 'WorkSans', 'sans-serif' !important;
 }
